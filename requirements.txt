@@ -1,0 +1,9 @@
+asgiref==3.7.2
+customtkinter==5.2.1
+darkdetect==0.8.0
+Django==5.0
+Pillow==10.1.0
+pocketsphinx @ file:///C:/Projects/Speech_Recognition/save/pocketsphinx-0.1.15-cp310-cp310-win_amd64.whl
+sqlparse==0.4.4
+typing_extensions==4.9.0
+tzdata==2023.3
